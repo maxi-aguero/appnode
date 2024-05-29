@@ -1,0 +1,10 @@
+instalacion node y mysql: https://www.youtube.com/watch?v=MbkXjF_CuVY&t=1s
+conexion base de datos. https://www.youtube.com/watch?v=lXi9SBTNHj0
+formularios frontend. https://www.youtube.com/watch?v=UWwFMGJ1g08
+registro. https://www.youtube.com/watch?v=KuZmuF44HIc
+login. https://www.youtube.com/watch?v=HaDR7YRclaQ&t=302s
+
+instalacion: https://www.youtube.com/watch?v=7l46C_T3otQ&t=407s
+despliegue: https://www.youtube.com/watch?v=OVESuyVoPkI
+despliegue con vercel:https://www.youtube.com/watch?v=CbdI6Pz8MuA
+

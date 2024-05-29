@@ -1,0 +1,25 @@
+modulos de produccion
+package.json: npm init -y
+crear servidor: npm install express
+ver peticiones en consola: npm install morgan
+extiende paginas html: npm install ejs
+
+
+modulos de desarrollo qu ayudan a crear la app
+npm install nodemon
+
+separar en carpetas
+scr
+  index.js
+
+
+
+ejecutar cada vez que halla cambios:
+sacar en script //"test": "echo \"Error: no test specified\" && exit 1"
+poner "dev" : "nodemon src/index.js"
+
+
+como utilizar el servidor con el modulo express:
+utilizar app con metodo listen http://localhost:3000/
+min 1o
+
